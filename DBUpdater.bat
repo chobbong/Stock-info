@@ -1,0 +1,1 @@
+python C:\myPackage\investar\DBUpdater.py
